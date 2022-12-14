@@ -23,7 +23,7 @@ Feature: Navigation Menu
     And The user navigates to All Post menu
     Then The user able to see Posts text
 
-  @wip
+
   Scenario:Navigation to My Account menu
     Given The user is on the login page
     When The user enters teacher credentials

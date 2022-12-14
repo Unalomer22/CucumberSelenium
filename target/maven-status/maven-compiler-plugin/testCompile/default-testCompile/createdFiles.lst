@@ -1,0 +1,12 @@
+com\eurotech\pages\LoginPage.class
+com\eurotech\utilities\BrowserUtils.class
+com\eurotech\runners\CukesRunner.class
+com\eurotech\pages\BasePage.class
+com\eurotech\pages\DashboardPage.class
+com\eurotech\step_definitions\Hooks.class
+com\eurotech\utilities\ConfigurationReader.class
+com\eurotech\pages\ProfilePage.class
+com\eurotech\utilities\Driver.class
+com\eurotech\utilities\BrowserUtils$1.class
+com\eurotech\step_definitions\Login_StepDefs.class
+com\eurotech\step_definitions\NavigationMenu_StepDefs.class
